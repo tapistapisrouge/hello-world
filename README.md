@@ -10,9 +10,9 @@ Github tuto
 RAS
 
 ### Diemglier
-Attentien le DIemglier est là !
+Attentien le Diemglier est là !
 
-![Image text](/hello-world/Diem_Github.PNG)
+![Image Choquante](https://github.com/tapistapisrouge/hello-world/blob/readme_edit/Diem_Github.PNG)
 
 ### FAQS
 Qui est-il ? Que fait-il ? Le Diemglier regorge de questions sans réponse...
